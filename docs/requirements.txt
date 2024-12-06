@@ -3,4 +3,4 @@ recommonmark
 setuptools
 sphinxcontrib-seqdiag
 # until the "no attribute 'testsize'" bug is fixed:
-pillow<10
+pillow<12
